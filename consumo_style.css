@@ -1,0 +1,96 @@
+@import url('https://fonts.googleapis.com/css?family=Raleway');
+
+div#cabecalho {
+    background: url(midia/ink.jpg);
+    margin: 12px;
+    padding: 12px;
+    font-family: Raleway, Arial, sans-serif;
+    color: #00ffff;
+    text-align: right;
+    text-shadow: 2px 2px 2px #000;
+    margin: 12px;
+    padding: 12px;
+    box-shadow: 3px 3px 3px 3px #ddd;
+}
+
+div#menu legend {
+    font-family: Raleway, Arial, sans-serif;
+    color: #ba55d3;
+    text-align: left;
+    font-weight: bold;
+    margin: 5px;
+    padding: 5px;
+}
+
+div#menu fieldset {
+    font-family: Raleway, Arial, sans-serif;
+    text-align: left;
+    font-size: 25px;
+    margin: 25px;
+    padding: 15px;
+}
+
+div#menu p {
+    font-family: inherit;
+    font-size: inherit;
+    display: inline-block;
+    margin: inherit;
+    padding: inherit;
+    vertical-align: middle;
+}
+
+div#menu form {
+    font-family: inherit;
+    font-size: inherit;
+    display: inline-block;
+    margin: 10px;
+    padding: 10px;
+}
+
+input#cod {
+    font-family: inherit;
+    font-size: 20px;
+    display: inline-block;
+    margin: 5px;
+    padding: 5px;
+}
+
+input#valor {
+    font-family: inherit;
+    font-size: 20px;
+    display: inline-block;
+    margin: 5px;
+    padding: 5px;
+}
+
+form#opcaoRecarga input {
+    font-family: inherit;
+    font-size: 25px;
+    margin: 5px;
+    padding: 5px;
+    width: 180px;
+}
+
+div#botoes {
+    border-style: double;
+    border-color: #ba55d3;
+    display: inline;
+    float: right;
+    margin: 30px;
+    padding: 10px;
+}
+
+div#menu {
+    background-color: #fff;
+    margin: 12px;
+    padding: 12px;
+    box-shadow: 3px 3px 3px 3px #ddd;
+    text-align: center;
+}
+
+footer#rodape {
+    font-family: Raleway, Arial, sans-serif;
+    text-align: center;
+    margin: 5px;
+    padding: 5px;
+}

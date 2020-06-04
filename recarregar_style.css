@@ -1,0 +1,62 @@
+@import url('https://fonts.googleapis.com/css?family=Raleway');
+
+div#cabecalho {
+    background: url(midia/ink.jpg);
+    margin: 12px;
+    padding: 12px;
+    font-family: Raleway, Arial, sans-serif;
+    color: #00ffff;
+    text-align: right;
+    text-shadow: 2px 2px 2px #000;
+    margin: 12px;
+    padding: 12px;
+    box-shadow: 3px 3px 3px 3px #ddd;
+}
+
+div#confirmacao h2 {
+    font-family: Raleway, Arial, sans-serif;
+    text-align: left;
+    font-weight: bold;
+    margin: 5px;
+    padding: 5px;
+}
+
+div#confirmacao h3 {
+    font-family: Raleway, Arial, sans-serif;
+    font-size: 24px;
+    font-weight: normal;
+    text-align: center;
+    margin: 5px;
+    padding: 5px;
+}
+
+div#confirmacao {
+    background-color: #fff;
+    margin: 12px;
+    padding: 12px;
+    box-shadow: 3px 3px 3px 3px #ddd;
+}
+
+.centro {
+    display: block;
+    width: 18%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+input {
+    font-family: inherit;
+    font-size: 23px;
+    display: inline-block;
+    margin: 5px;
+    padding: 5px;
+    width: 250px;
+    height: 50px;
+}
+
+footer#rodape {
+    font-family: Raleway, Arial, sans-serif;
+    text-align: center;
+    margin: 5px;
+    padding: 5px;
+}

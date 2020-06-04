@@ -1,0 +1,63 @@
+@import url('https://fonts.googleapis.com/css?family=Raleway');
+
+div#cabecalho {
+    background: url(midia/ink.jpg);
+    margin: 12px;
+    padding: 12px;
+    font-family: Raleway, Arial, sans-serif;
+    color: #00ffff;
+    text-align: right;
+    text-shadow: 2px 2px 2px #000;
+    margin: 12px;
+    padding: 12px;
+    box-shadow: 3px 3px 3px 3px #ddd;
+}
+
+div#historico caption {
+    font-family: Raleway, Arial, sans-serif;
+    color: #ba55d3;
+    text-align: right;
+    vertical-align: middle;
+    font-size: 30px;
+    font-weight: bold;
+    margin: 5px;
+    padding: 5px;
+}
+
+div#historico th {
+    font-family: Raleway, Arial, sans-serif;
+    text-align: left;
+    vertical-align: middle;
+    font-size: 20px;
+    font-weight: normal;
+    margin: 12px;
+    padding: 12px;
+}
+
+div#historico td {
+    font-family: Raleway, Arial, sans-serif;
+    text-align: left;
+    vertical-align: middle;
+    font-size: 20px;
+    font-weight: normal;
+    margin: 12px;
+    padding: 12px;
+}
+
+div#historico table, th, td {
+    border: 1px dotted #000;
+}
+
+td {
+    background-color: #e6e6fa;
+}
+
+table {
+    float: right;
+    box-shadow: 3px 3px 3px 3px #ddd;
+}
+
+div#historico {
+    margin: 12px;
+    padding: 12px;
+}
